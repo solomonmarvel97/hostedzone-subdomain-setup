@@ -1,0 +1,9 @@
+node_modules
+venv
+.env
+.terraform
+.terraform.lock.hcl
+terraform.tfstate.backup
+.terraform
+go.mod
+go.sum
